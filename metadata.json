@@ -1,0 +1,7 @@
+{
+  "name": "PharmaScan PDF",
+  "description": "A professional utility for extracting medical billing data from pharmacy invoices using Gemini AI and generating digital receipts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
